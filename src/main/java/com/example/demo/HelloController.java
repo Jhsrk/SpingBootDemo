@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Created by ${lishijie} on 2017/9/18 0018.
+ * hello控制器
  */
 @RestController
 public class HelloController {
